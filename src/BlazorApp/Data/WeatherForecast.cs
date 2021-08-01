@@ -1,6 +1,6 @@
 using System;
 
-namespace BlazorApp.Data
+namespace MttWht.Scheduler.BlazorApp.Data
 {
     public class WeatherForecast
     {
